@@ -25,7 +25,7 @@ A simple and elegant calculator app built using **Flutter** and **Dart**. This a
 
 ## 📸 Screenshots
 
-![Flutter App Developer](https://github.com/pawanmali1010/Counter_App/blob/main/Counter_App_Image.jpg?raw=true)
+![Flutter App Developer](https://github.com/pawanmali1010/Calulator_App/blob/main/Screenshot%20Calculator.jpg?raw=true)
 
 ---
 
